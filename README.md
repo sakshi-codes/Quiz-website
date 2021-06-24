@@ -4,9 +4,7 @@
 
 ## Admin:
 <ul>
-  <li>Create Admin account using command 
-  python -m pip install -r requirements. txt
-</li>
+  <li>Create Admin account using command <br> python -m pip install -r requirements. txt</li>
   <li>Can Add, View, Delete Quiz.</li>
   <li>Can Add Questions To Respective quiz With options and correct answer.</li>
   <li>Can also see result</li>

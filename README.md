@@ -1,6 +1,16 @@
 # Quiz-website
+This app is made using Django.It can be used to take Quizes.
+
+#Specifications
+<ul>
+  <li>SQLite is used as a database./li>
+  <li>HTML,CSS,Javascript is used for frontend</li>
+  <li>Python is used for backend.</li>
+</ul>
+
 
 ## Functions:
+<hr>
 
 ## Admin:
 <ul>

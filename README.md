@@ -1,7 +1,7 @@
 # Quiz-website
 This app is made using Django.It can be used to take Quizes.
 
-#Specifications
+# Specifications
 <ul>
   <li>SQLite is used as a database./li>
   <li>HTML,CSS,Javascript is used for frontend</li>
@@ -10,15 +10,15 @@ This app is made using Django.It can be used to take Quizes.
 
 
 ## Functions:
-<hr>
 
 ## Admin:
-<ul>
-  <li>Create Admin account using command <br> python -m pip install -r requirements.txt</li>
-  <li>Can Add, View, Delete Quiz.</li>
-  <li>Can Add Questions To Respective quiz With options and correct answer.</li>
-  <li>Can also see result</li>
-</ul>
+- Create Admin account using command
+```
+py manage.py createsuperuser
+```
+- Can Add, View, Delete Quiz.
+- Can Add Questions To Respective quiz With options and correct answer.
+- Can also see result
 
 ## Student:
 
@@ -30,9 +30,19 @@ This app is made using Django.It can be used to take Quizes.
 
 ## HOW TO RUN THIS PROJECT
 
-<ul>
-  <li>Install Python(3.7.6) (Dont Forget to Tick Add to Path while installing Python)</li>
-  <li>Open Terminal and Execute Following Commands : <br> python -m pip install -r requirements. txt</li>
-  <li>Move to project folder in Terminal. Then run following Commands :<br>py manage.py makemigrations<br>py manage.py migrate<br>py manage.py runserver</li>
-  <li>Now enter following URL in Your Browser Installed On Your Pc <br>http://127.0.0.1:8000/</li>
-</ul>
+- Install Python(3.7.6) (Dont Forget to Tick Add to Path while installing Python)
+- Open Terminal and Execute Following Commands :
+```
+python -m pip install -r requirements. txt
+```
+- Download This Project Zip Folder and Extract it
+- Move to project folder in Terminal. Then run following Commands :
+```
+py manage.py makemigrations
+py manage.py migrate
+py manage.py runserver
+```
+- Now enter following URL in Your Browser Installed On Your Pc
+```
+http://127.0.0.1:8000/
+```

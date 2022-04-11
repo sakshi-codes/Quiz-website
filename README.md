@@ -8,7 +8,12 @@ This app is made using Django.It can be used to take Quizes.
   <li>Python is used for backend.</li>
 </ul>
 
-
+## Screenshots:
+![](https://github.com/sakshi-codes/Quiz-website/blob/main/screenshot/Capture.PNG)
+![](https://github.com/sakshi-codes/Quiz-website/blob/main/screenshot/Capture1.PNG)
+![](https://github.com/sakshi-codes/Quiz-website/blob/main/screenshot/Capture2.PNG)
+![](https://github.com/sakshi-codes/Quiz-website/blob/main/screenshot/Capture3.PNG)
+![](https://github.com/sakshi-codes/Quiz-website/blob/main/screenshot/Capture4.PNG)
 ## Functions:
 
 ## Admin:
